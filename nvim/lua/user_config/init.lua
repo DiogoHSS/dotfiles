@@ -1,3 +1,3 @@
-require('config.startup')
-require('config.keymaps')
+require('user_config.startup')
+require('user_config.controls')
 
